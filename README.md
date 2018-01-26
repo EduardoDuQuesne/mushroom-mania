@@ -1,4 +1,4 @@
-# Mushroom-Mani
+# Mushroom-Mania
 
 ## NSS Modern Frameworks Exercise 1
 
